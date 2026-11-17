@@ -2,7 +2,7 @@
 
 Адаптивний односторінковий лендінг дизайн-агенції **Keepsake**, зверстаний за підходом **Mobile First** без використання сторонніх CSS/UI-фреймворків.
 
-- **Демо (GitHub Pages):** `https://<username>.github.io/landing-keepsake/`
+- **Демо (GitHub Pages):** `https://YashchukStanislav.github.io/landing-keepsake/`
 
 ## Структура проєкту
 
